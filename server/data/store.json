@@ -1,0 +1,67 @@
+{
+  "enquiries": [
+    {
+      "id": "91e2f478-6e9d-4811-8f08-3c328baa479b",
+      "full_name": "Test Client",
+      "mobile": "9876543210",
+      "email": null,
+      "business_name": null,
+      "service_required": "Income Tax Return (ITR)",
+      "preferred_contact_method": "WhatsApp",
+      "message": "Need consultation for filing my returns.",
+      "status": "NEW",
+      "internal_notes": null,
+      "created_at": "2026-10-29T03:59:22.686Z",
+      "updated_at": "2026-10-29T03:59:22.686Z"
+    },
+    {
+      "id": "f00217bb-ca21-4617-8cd6-19fdd153e5ae",
+      "full_name": "Mohammed Suhail",
+      "mobile": "9876543210",
+      "email": "suhail.demo@gmail.com",
+      "business_name": "Suhail General Trading",
+      "service_required": "GST Registration & Filing",
+      "preferred_contact_method": "WhatsApp",
+      "message": "Need GST registration for our new retail outlet and monthly GSTR-3B filing support.",
+      "status": "NEW",
+      "internal_notes": "Prospective retail client based in Bhatkal main market.",
+      "created_at": "2026-10-29T01:59:22.680Z",
+      "updated_at": "2026-10-29T01:59:22.680Z"
+    },
+    {
+      "id": "b336cf36-8717-40c9-b316-3f1275a2dd51",
+      "full_name": "Ahmad Tanveer",
+      "mobile": "9123456789",
+      "email": "tanveer.ahmad@outlook.com",
+      "business_name": "Tanveer Consultancy",
+      "service_required": "Income Tax Return (ITR)",
+      "preferred_contact_method": "Phone",
+      "message": "Looking to file ITR-3 with foreign income dividend reconciliation.",
+      "status": "CONTACTED",
+      "internal_notes": "Spoke over phone. Awaiting Form 26AS & bank statement copies.",
+      "created_at": "2026-10-28T03:59:22.680Z",
+      "updated_at": "2026-10-28T23:59:22.680Z"
+    }
+  ],
+  "admin_users": [
+    {
+      "id": "admin-001",
+      "email": "admin@afzalhusein.com",
+      "password_hash": "$2b$10$k0KGPj50ASqpQI2l1nHGrOAAe4ATs.XARYYlkspSVmyjT5BTmpC76",
+      "full_name": "Afzal Husein Mohtesham",
+      "is_active": true,
+      "created_at": "2026-10-29T03:59:22.680Z",
+      "updated_at": "2026-10-29T03:59:22.680Z"
+    }
+  ],
+  "site_settings": {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "business_name": "Afzal Husein Mohtesham",
+    "professional_title": "Accounts & Tax Professional",
+    "phone": "8123033231",
+    "email": "afzalmohtesham0@gmail.com",
+    "address": "#Square, Ameenuddin Road, Nawayath Colony, Bhatkal – 581 320, Karnataka, India",
+    "tagline": "Serving Bhatkal with Trust Since 2022",
+    "updated_at": "2026-10-29T03:56:49.191Z"
+  }
+}
